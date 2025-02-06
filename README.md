@@ -1,11 +1,12 @@
 # ALURA / ONE - Curso HTML e CSS - Projeto Portfólio 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/274fec07-e74d-4180-8d25-8b3e59148c79" width="160px"/>
+  <img src="https://github.com/user-attachments/assets/274fec07-e74d-4180-8d25-8b3e59148c79" width="165px"/>
   <img src="https://github.com/user-attachments/assets/be14a37d-1235-43b5-9dec-a35e05bb9a63" width="140px" />
   <img src="https://github.com/user-attachments/assets/b4ba466d-0565-4a64-9115-4698ae0fe5cb" width="130px" />
   <img src="https://github.com/user-attachments/assets/cd378e98-a8da-4328-8366-c070144747f8" width="245px" />
   </p>
+
 
 
 
@@ -27,7 +28,7 @@ O resultado tem a seguinte aparência:
 
 Ao final, será feito o deploy desta aplicação, que ficará disponível no Vercel de forma pública para que qualquer usuário possa visualizar e conhecer a aplicação desenvolvida. 
 
-Link com o deploy no Vercel: 
+Link com o deploy no Vercel: https://one-alura-projeto-portfolio.vercel.app/index.html
 
 :computer: **Linguagens e recursos utilizados** 
 
